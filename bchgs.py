@@ -3,7 +3,7 @@ import os
 import sys
 import time
 
-target = "spinningduck.gif"
+target = "spinninduck.gif"
 # Duplicate target file repeatedly with incrementing file names until there is no more space on the disk. Don't change the extension.
 i = 1
 created_files = []
